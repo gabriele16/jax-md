@@ -11,5 +11,8 @@
 .DS_Store
 build/
 dist/
+Supplementary/
+Data_MD/
+*pickle
 .mypy_cache/
 examples/output/*
