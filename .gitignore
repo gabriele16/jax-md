@@ -13,6 +13,7 @@ build/
 dist/
 Supplementary/
 Data_MD/
+*zip
 *pickle
 .mypy_cache/
 examples/output/*
